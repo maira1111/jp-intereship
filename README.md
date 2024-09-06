@@ -1,1 +1,1 @@
-# jp-intereship
+# jp-internship
